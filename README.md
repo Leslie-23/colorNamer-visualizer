@@ -14,7 +14,7 @@ Welcome to the Color Name to Hex Code Converter! This is a simple web tool desig
 - CSS
 - JavaScript
 
-3. Open the `index.html` file in your web browser.
+
 
 ## Usage
 
